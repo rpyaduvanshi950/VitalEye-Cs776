@@ -1,0 +1,11 @@
+gradio
+opencv-python-headless
+numpy
+torch
+torchvision
+ultralytics
+huggingface_hub
+tqdm
+scipy
+matplotlib
+openvino
